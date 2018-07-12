@@ -1,0 +1,25 @@
+h1 {
+    border: 2px solid rgb(184, 40, 83);
+}
+body {
+ background-color: rgba(34, 3, 34, 0.726)
+}
+p {
+    color: rgb(12, 11, 11)
+}
+input[type="comments"],
+input[type="About"],
+input[type=""] {
+    cursor: pointer;
+}
+@media (min-width: 769px) {}
+.inln {
+    width: auto;
+    display: inline-block;
+ }
+/* Style the links inside navigation bar */
+.topnav a{
+    float: right;
+    text-align: center;
+    padding: 20px 20px;
+}
