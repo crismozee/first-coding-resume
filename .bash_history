@@ -137,3 +137,50 @@ cd desktop
 cd FirstCoding
 git remote -v
 git status
+git pull origin master
+git push
+cd
+desktop
+cd desktop
+cd desktop/FirstCoding
+cd
+desktop/FirstCoding/
+cd
+documents
+cd documents
+cd documents/FirstCoding
+documents/FirstCoding
+FirstCoding
+git init
+git init
+ls -a
+git remote add origin https://github.com/crismozee/FirstCoding
+git remote -v
+git pull origin master
+git status
+git add desktop.ini
+git add.
+git add .
+git commit -a -m "Update"
+git push origin master
+git status
+git pull origin master
+git status
+git add .
+git add style.css
+git push master
+git pull origin master
+git add .
+git push
+git push origin master
+git push origin master
+git push origin master
+cd
+desktop
+cd desktop
+desktop/FirstCoding
+cd
+cd desktop
+desktop/FirstCoding
+desktop/FirstCoding/
+cd desktop/FirstCoding
