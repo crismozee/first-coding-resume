@@ -1,0 +1,44 @@
+h1 {
+    border: 2px solid #b82853;
+    text-align: center;
+}
+h2 { /* I wanted to center my second heading*/
+   text-align: center;
+   width: 80%
+}
+body {
+ background-color: rgba(78, 11, 78, 0.726);
+ display: flex;
+ flex-direction: column;
+}
+p { /* So with this code I wanted to center my first paragraph*/
+    color: rgb(12, 11, 11);
+    text-align: left;
+    height: 20px;
+    margin: 80px;
+}   /* So here I wanted to make sure the bottom buttons were arranged, somewhat decently */
+input[type="comments"],
+input[type="About"],
+input[type=""] {
+    cursor: pointer;
+}
+@media only screen and (min-width: 769PX) {
+        orientation: landscape; 
+}
+@media screen and (min-width:980px){
+      
+}    
+.nav a {
+    float: right;
+    padding: 15px;
+    display: horizontal;
+}
+.main-footer{
+    float: center;
+}
+    /* CSS Document*/
+
+ul { 
+    list-style-type: none;
+    
+}
